@@ -351,3 +351,23 @@ mirrors:
     packages:
       - Dart Pub
       - Flutter packages
+      
+  - name: FreeDif
+    url: https://mirror.freedif.org/
+    description: High-speed open-source mirror based in Singapore with a 10GBPS connection, dedicated to supporting the community.
+    packages:
+      - Termux
+      - F-Droid
+      - Chaotic-AUR
+      - Ubuntu
+      - Debian
+      - Fedora
+      - LinuxMint
+      - Manjaro
+      - Arch Linux
+      - Void Linux
+      - Alpine
+      - AlmaLinux
+      - Rocky Linux
+      - Kali
+      - TorProject
